@@ -5,5 +5,5 @@ smtp stands for simple mail transfer protocal
 
 <!-- Dummy Email address credential -->
 
-email: emailpython39@gmail.com
-pw: SendEmail!
+email: emailpython@yahoo.com
+pw: Send@message1
