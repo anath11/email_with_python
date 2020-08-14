@@ -2,7 +2,7 @@ import smtplib
 from email.message import EmailMessage
 
 email = EmailMessage()
-email['from'] = 'Oryx Ratana'
+email['from'] = 'Python Email'
 email['to'] = 'nathashok87@gmail.com'
 email['subject'] = 'You won a million dollar from a broke ass lottery ticket'
 
